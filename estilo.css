@@ -1,0 +1,41 @@
+
+
+ul{
+    display: inline-block;
+    padding: 3px;
+}
+h1,h5{
+    text-align: center;
+    padding-top: 15px;
+}
+hr{
+    background-color: rgb(0, 0, 0);
+    width: 500px;
+    height: 2px;
+}
+
+h6{
+    color: rgb(247, 247, 247);
+}
+.text{
+    text-align: center;
+    color: aliceblue;
+    background-color: black;
+    padding-right: 2%;
+}
+.verde > h6{
+    color: green;
+}
+.Assinatura{
+    background-color: rgb(0, 83, 238);
+    color: white;
+    padding-top: 1%;
+    text-align: center;
+}
+#cor:hover{
+    background-color: cornflowerblue;
+}
+#cor a:hover{
+    background-color: blue;
+    color: white;
+}

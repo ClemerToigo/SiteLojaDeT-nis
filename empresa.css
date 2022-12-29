@@ -1,0 +1,10 @@
+h1,h3{
+    text-align: center;
+}
+.lado, h3{
+    text-align: left;
+    color: cornflowerblue;
+}
+.Nome{
+    background-color: mediumspringgreen;
+}
